@@ -8,7 +8,6 @@
     "cypress:open": "node_modules/.bin/cypress open",
     "cypress:headless": "node_modules/.bin/cypress run --headless",
     "cypress:headed": "node_modules/.bin/cypress run"
-  
   },
   "author": "",
   "license": "ISC",
